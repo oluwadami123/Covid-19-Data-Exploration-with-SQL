@@ -9,7 +9,8 @@ The primary obejectives for this projects are as follows;
 
 **Data Extraction**:
 Extracted the Covid-19 data from a reliable source. you can check for it in this repo.
-Exploratory Data Analysis: Did a thorough analysis to get the trends of the covid-19 metrics globally and across different regions 
+
+**Exploratory Data Analysis**: Did a thorough analysis to get the trends of the covid-19 metrics globally and across different regions 
 
 **Visualizations**:
 I visualized all some of the output using tableau. you can check it [here](https://public.tableau.com/app/profile/gabriel.adeniran/viz/CovidDashboard_17128469889580/Dashboard1)
